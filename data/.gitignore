@@ -154,6 +154,8 @@ cython_debug/
 
 # data
 edgelist.csv
+.html
+.png
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
